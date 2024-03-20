@@ -1,6 +1,7 @@
 # Calculate 3D polygon area
 
-Calculate3DPolygonArea provides a header-only solution for efficiently computing the area of non-complex polygons in 3D space. This template-based solution is designed to be self-contained, requiring only the inclusion of <vector> from the standard library.
+Calculate3DPolygonArea provides a header-only solution for efficiently computing the area of non-complex polygons in 3D space.
+This solution is self-contained, requiring no external libraries except for the inclusion of `<vector>`.
 
 *This repository expands the functionality of the [Triangulate3DPolygon](https://github.com/StefanJohnsen/Triangulate3DPolygon) repository by incorporating the ability to calculate polygon area* 
 
